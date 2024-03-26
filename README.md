@@ -13,14 +13,19 @@ To install this in your python environment, run the following command:
 ```bash
 git clone https://github.com/KrishnarajT/kptgraphs
 ```
+3. Change directory to the cloned repository
 
-3. Pip install the module
+```bash
+cd kptgraphs
+```
+
+4. Pip install the module
 
 ```bash
 pip install .
 ```
 
-4. Import the module in your python script
+5. Import the module in your python script
 
 ```python
 import kptgraphs
