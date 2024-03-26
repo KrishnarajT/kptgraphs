@@ -1,4 +1,4 @@
-from ColorScheme import ColorScheme
+from .ColorScheme import ColorScheme
 import numpy as np
 
 
