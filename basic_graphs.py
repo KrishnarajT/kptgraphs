@@ -2,10 +2,9 @@
 will always be available to copy the code from anyway. So i can always modify the code, but atleast there will be a
 set template of all the graphs that I may need. I will use any module that I think looks good here."""
 
-import matplotlib.pyplot as plt
-import numpy as np
-
 from .Colors.ColorSchemes import ColorSchemes
+import numpy as np
+import matplotlib.pyplot as plt
 
 
 class Basics:

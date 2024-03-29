@@ -8,7 +8,6 @@ class ColorScheme:
         self.background = background
         self.text = text
         self.name = name
-        
 
     def __str__(self) -> str:
         return f"{self.name} color scheme"
