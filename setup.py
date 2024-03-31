@@ -7,7 +7,7 @@ here = os.path.abspath(os.path.dirname(__file__))
 with codecs.open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
     long_description = "\n" + fh.read()
 
-VERSION = "0.0.10"
+VERSION = "0.0.13"
 DESCRIPTION = "My Version of Plotting Graphs for simple data analysis. "
 LONG_DESCRIPTION = "A package that lets you plot graphs built on top of matplotlib and seaborn. The process is not that much more simple than using those libraries themselves, but these graphs match the style I use in my projects."
 
