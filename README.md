@@ -1,3 +1,5 @@
+should probably change to using it in a way so that you can just pass the object, and this module can change the characteristics, instead of actually drawing the chart, so that we can future proof and least maintain this project. 
+
 # kptgraphs
 
 My python module for me to use my own standardized graphs.

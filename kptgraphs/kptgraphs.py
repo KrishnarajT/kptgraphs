@@ -36,7 +36,7 @@ class Basics:
         if text_font_family == "random":
             self.text_font_family = np.random.choice(self.good_fonts_for_text)
 
-        plt.rcParams["font.family"] = self.text_font_family
+        plt.rcParams["font.family"] = self.code_font_family
 
     # getters
     def get_fonts(self):
